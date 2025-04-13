@@ -1,0 +1,1 @@
+[{'match': 'Saint-Étienne x Brest', 'status': 'ENCERRADO', 'league': 'Campeonato Italiano', 'scoreboard': {'Saint-Étienne': '3', 'Brest': '3'}, 'summary': '3 x 3'}]

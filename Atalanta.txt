@@ -1,0 +1,1 @@
+[{'match': 'Atalanta x Bologna', 'status': 'ENCERRADO', 'league': 'Campeonato Alemão - Bundesliga', 'scoreboard': {'Atalanta': '2', 'Bologna': '0'}, 'summary': '2 x 0'}]

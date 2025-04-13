@@ -1,0 +1,1 @@
+[{'match': 'Deportivo Alavés x Real Madrid', 'status': 'INTERVALO', 'league': 'Campeonato Paranaense - Segunda Divisão', 'scoreboard': {'Deportivo Alavés': '0', 'Real Madrid': '1'}, 'summary': '0 x 1'}]

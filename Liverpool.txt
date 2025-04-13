@@ -1,0 +1,1 @@
+[{'match': 'Liverpool x West Ham', 'status': 'ENCERRADO', 'league': 'Campeonato Espanhol', 'scoreboard': {'Liverpool': '2', 'West Ham': '1'}, 'summary': '2 x 1'}]

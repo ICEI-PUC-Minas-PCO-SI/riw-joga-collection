@@ -1,0 +1,1 @@
+[{'match': 'Osasuna x Girona', 'status': 'ENCERRADO', 'league': 'Campeonato Paranaense - Segunda Divisão', 'scoreboard': {'Osasuna': '2', 'Girona': '1'}, 'summary': '2 x 1'}]
